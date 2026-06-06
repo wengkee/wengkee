@@ -26,7 +26,8 @@
 </div>
 
 
-<a href="https://github.com/wengkee">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wengkee&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=1a7f5a&text_color=9e9e9e&icon_color=1d9e75" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wengkee&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=1a7f5a&text_color=9e9e9e&layout=compact&langs_count=8" />
-</a>
+<div align="center">
+
+</div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wengkee&hide=contribs,prs)
